@@ -1,2 +1,2 @@
-# gfl
-Crowdfunded cryptocurrency mining datacenter in Black Sea coast in Georgia.
+# GoldenFleeceProject
+Smart Contract that supports ERC20
